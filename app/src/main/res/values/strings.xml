@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MC20201014MM</string>
+    <string name="title_activity_video">VideoActivity</string>
 </resources>
